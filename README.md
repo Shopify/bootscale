@@ -1,7 +1,7 @@
 # Bootscale
 
 [![Build Status](https://travis-ci.org/byroot/bootscale.svg)](http://travis-ci.org/byroot/bootscale)
-[![Gem Version](https://badge.fury.io/rb/bootscale.png)](http://badge.fury.io/rb/byroot/bootscale)
+[![Gem Version](https://badge.fury.io/rb/bootscale.svg)](http://badge.fury.io/rb/byroot/bootscale)
 
 Speedup applications boot by caching file locations during require calls.
 
